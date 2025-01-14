@@ -1,11 +1,19 @@
-h1 align="left">Hey!! Welcome to my profile, my name if Brayan</h1>
+<h1 align="left">Hey!! Welcome to my profile, my name if Brayan</h1>
+
 ###
+
 <h3 align="left">About me</h3>
+
 ###
+
 <p align="left">Full-Stack Developer currently working in the automotive industry and looking to transition into tech. <br><br>Passionate about building user-friendly and efficient web applications. Eager to contribute to innovative projects.</p>
+
 ###
+
 <h3 align="left">My tech stack</h3>
+
 ###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -33,12 +41,17 @@ h1 align="left">Hey!! Welcome to my profile, my name if Brayan</h1>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
+
 ###
+
 <h2 align="left">You can reach out to me here</h2>
+
 ###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/brayan-sredzinski/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
 ###
