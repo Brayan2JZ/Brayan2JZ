@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Full-Stack Developer currently working in the automotive industry and looking to transition into tech. <br><br>Passionate about building user-friendly and efficient web applications. Eager to contribute to innovative projects.</p>
+<p align="left">Master Automotive Technician turned Full-Stack Developer and looking to transition into tech. <br><br>Passionate about building user-friendly and efficient web applications. Eager to contribute to innovative projects.</p>
 
 ###
 
